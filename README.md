@@ -1,5 +1,6 @@
 ## Hello GitHub Fans 👋
 欢迎来到我的world
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
@@ -29,5 +30,6 @@
 ### 关于我
   
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
 ⭐️ From [Dear-Fantasy](https://github.com/Dear-Fantasy)
 
