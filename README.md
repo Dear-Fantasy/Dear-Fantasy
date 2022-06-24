@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm ChuanFeng Liu
-- Studying in school. & Github Lot of new .
+- Studying in school . & Github beginner .
 - 🌱 I am currently studying in Guangzhou.
 - 💬 Contact me [2260299916@qq.com](mailto:2260299916@qq.com)
 - ⚡ Fun fact: Data Analysis📊
