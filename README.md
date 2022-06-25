@@ -7,8 +7,11 @@
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Dear-Fantasy&ryo-ma&row=2&column=3)](https://github.com/Dear-Fantasy)
 
 ---
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dear-Fantasy" /> </div>
-                                                                           
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dear-Fantasy" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Dear-Fantasy&theme=xcode" />
+</div>
+                                                       
 ### I'm ChuanFeng Liu
 - Studying in school . & Github beginner .
 - 🌱 I am currently studying in Guangzhou.
