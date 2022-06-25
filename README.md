@@ -1,15 +1,11 @@
 ## Hello GitHub Fans 👋
 欢迎来到我的world  
-
+<div align="center"> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/Dear-Fantasy)
 ---
-<div align="center"> 
-  
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true" /> 
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)](https://github.com/Dear-Fantasy)
   </div>
- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" /> 
-</div>
+
 ### I'm ChuanFeng Liu
 - Studying in school . & Github beginner .
 - 🌱 I am currently studying in Guangzhou.
