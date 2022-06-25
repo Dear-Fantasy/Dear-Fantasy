@@ -1,6 +1,6 @@
-<h1 align="center"> 
+<div align="center"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&lines=hi+%E5%8D%9A%E5%8F%8B%E4%BB%AC+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84world;Dear-Fantasy%E7%A5%9D%E6%82%A8%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83)](https://git.io/typing-svg)
-  </h1>
+  </div>  
 ## Hello GitHub Fans 👋
 欢迎来到我的world  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/Dear-Fantasy)
