@@ -7,9 +7,7 @@
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Dear-Fantasy&ryo-ma&row=2&column=3)](https://github.com/Dear-Fantasy)
 
 ---
-<div align="center"> 
-  <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-  </div>                                                                                
+                                                                           
 ### I'm ChuanFeng Liu
 - Studying in school . & Github beginner .
 - 🌱 I am currently studying in Guangzhou.
