@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 欢迎来到我的world  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/Dear-Fantasy)
 ---
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Dear-Fantasy&ryo-ma&row=2&column=3)](https://github.com/Dear-Fantasy)
@@ -8,8 +8,7 @@
 ---
 <div align="center"> 
   <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-  </div>
-                                                                                     
+  </div>                                                                                
 ### I'm ChuanFeng Liu
 - Studying in school . & Github beginner .
 - 🌱 I am currently studying in Guangzhou.
