@@ -4,8 +4,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <div align="center"> 
-<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" /> 
+  <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  </div>
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" /> 
 </div>
 ### I'm ChuanFeng Liu
 - Studying in school . & Github beginner .
