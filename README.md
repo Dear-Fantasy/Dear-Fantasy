@@ -8,8 +8,9 @@
 
 ---
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Dear-Fantasy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dear-Fantasy" />
   <img src="https://activity-graph.herokuapp.com/graph?username=Dear-Fantasy&theme=xcode" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Dear-Fantasy" />
 </div>
                                                        
 ### I'm ChuanFeng Liu
