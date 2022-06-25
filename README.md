@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <div align="center"> 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" /> 
 </div>
 ### I'm ChuanFeng Liu
