@@ -3,8 +3,6 @@
 ## Hello GitHub Fans 👋
 欢迎来到我的world  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dear-Fantasy&theme=dark&show_icons=true)](https://github.com/Dear-Fantasy)
----
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=Dear-Fantasy&ryo-ma&row=2&column=3)](https://github.com/Dear-Fantasy)
 
 ---
 <div align="center"> 
